@@ -10,7 +10,7 @@ capture.set(4, 480)
 
 pTime = 0
 
-folderPath = 'images/FingerImages'
+folderPath = 'FingerImages'
 myList = os.listdir(folderPath)
 print(myList)
 
